@@ -1,3 +1,8 @@
-void main()
-{ printf("Hello, World!");
-printf("All You need is love") }
+#include <stdio.h>
+
+int main(void)
+{
+printf("Hello, World!");
+printf("All You need is love");
+return 0;
+}
