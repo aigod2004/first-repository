@@ -1,2 +1,3 @@
-printf("Hello, World!");
-printf("All You need is love");
+void main()
+{ printf("Hello, World!");
+printf("All You need is love") }
